@@ -1,4 +1,4 @@
 ```bash
 
-npx guiteixeira
+\$ npx guiteixeira
 ```
