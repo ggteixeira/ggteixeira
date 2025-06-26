@@ -4,6 +4,8 @@ npx guiteixeira
 
 # Things I have some experience with
 
+## Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-FFE56B?logo=python&logoSize=auto&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-01007F?logo=lua&logoSize=auto&style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342C?logo=ruby&logoSize=auto&style=for-the-badge)
