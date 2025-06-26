@@ -6,7 +6,6 @@ npx guiteixeira
 
 ## Languages
 
-![.NET](https://img.shields.io/badge/.NET-3D4749?logo=dotnet&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFF?logo=typescript&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DE1E)
 ![Python](https://img.shields.io/badge/Python-FFE56B?logo=python&logoSize=auto&style=for-the-badge)
@@ -18,6 +17,10 @@ npx guiteixeira
 ![Ruby](https://img.shields.io/badge/Ruby-CC342C?logo=ruby&logoSize=auto&style=for-the-badge)
 ![Swi-Prolog](https://img.shields.io/badge/Swi--Prolog-EF9439?style=for-the-badge)
 
+### Currently Learning
+
+![CSharp](https://img.shields.io/badge/C%23-3D4749?style=for-the-badge)
+
 ## Frameworks
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-3D4749?logo=react&style=for-the-badge)
@@ -27,6 +30,10 @@ npx guiteixeira
 ![Astro](https://img.shields.io/badge/Astro-3D4749?logo=astro&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-3D4749?logo=django&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-555?style=for-the-badge&logo=flask)
+
+### Currently Learning
+
+![.NET](https://img.shields.io/badge/.NET-3D4749?logo=dotnet&style=for-the-badge)
 
 ## Coding tools
 
