@@ -20,6 +20,7 @@ npx guiteixeira
 ### Currently Learning
 
 ![CSharp](https://img.shields.io/badge/C%23-3D4749?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-3D4749?logo=dotnet&style=for-the-badge)
 
 ## Frameworks
 
@@ -31,10 +32,6 @@ npx guiteixeira
 ![Django](https://img.shields.io/badge/Django-3D4749?logo=django&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-555?style=for-the-badge&logo=flask)
 
-### Currently Learning
-
-![.NET](https://img.shields.io/badge/.NET-3D4749?logo=dotnet&style=for-the-badge)
-
 ## Coding tools
 
 ![Vim](https://img.shields.io/badge/Vim-3D4749?logo=vim&style=for-the-badge&logoColor=019733)
@@ -43,7 +40,7 @@ npx guiteixeira
 ![macOS](https://img.shields.io/badge/mac%20OS-3D4749?logo=macos&style=for-the-badge)
 ![Arch Linux](<https://img.shields.io/badge/Arch%20Linux%20(btw)-3D4749?logo=archlinux&style=for-the-badge>)
 
-## Tools
+## Tooling
 
 ![Husky](https://img.shields.io/badge/Husky-3D4749?style=for-the-badge)
 
@@ -61,7 +58,3 @@ npx guiteixeira
 
 ![Selenium](https://img.shields.io/badge/Selenium-555?style=for-the-badge&logo=selenium)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-555?style=for-the-badge)
-
-## Data Scraping Frameworks
-
-## Currently Learning
