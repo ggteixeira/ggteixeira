@@ -1,12 +1,26 @@
-# ABOUT ME
-
 ```bash
 npx guiteixeira
 ```
 
-Software Developer with experience in front-end systems. Currently interested in back-end development with .NET and C#. Besides programming I'm also interested in Generative Syntax, Formal Semantics, Natural Language Processing and Analytic Philosophy.
+<div align="center">
+  <a href="https:guiteixeira.dev">
+    Website
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
-# I have experience with
+  <a href="https://guiteixeira.dev/blog">
+    Blog
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  
+  <a href="mailto:github@guiteixeira.dev">
+    Contact
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
+
+  <a href="https://bsky.app/profile/guiteixeira.dev">
+     Bluesky
+  </a>
+</div>
+
+---
 
 ## Languages
 
@@ -22,13 +36,9 @@ Software Developer with experience in front-end systems. Currently interested in
 ![SWI-Prolog](https://img.shields.io/badge/Swi--Prolog-EF9439?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-3D4749?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3D4749?style=for-the-badge&logo=css)
-
-### Currently Learning
-
 ![CSharp](https://img.shields.io/badge/C%23-3D4749?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-3D4749?logo=dotnet&style=for-the-badge)
 
-## Frameworks
+## Libraries and Frameworks
 
 ![NextJS](https://img.shields.io/badge/NextJS-3D4749?logo=nextdotjs&style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-555?style=for-the-badge&logo=express)
@@ -36,8 +46,7 @@ Software Developer with experience in front-end systems. Currently interested in
 ![Astro](https://img.shields.io/badge/Astro-3D4749?logo=astro&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-3D4749?logo=django&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-555?style=for-the-badge&logo=flask)
-
-## Libraries
+![.NET](https://img.shields.io/badge/.NET-3D4749?logo=dotnet&style=for-the-badge)
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-3D4749?logo=react&style=for-the-badge)
 ![MUI](https://img.shields.io/badge/MUI-3D4749?style=for-the-badge&logo=mui)
@@ -49,21 +58,17 @@ Software Developer with experience in front-end systems. Currently interested in
 ![React Query](https://img.shields.io/badge/React%20Query-3D4749?style=for-the-badge&logo=reactquery)
 ![Storybook](https://img.shields.io/badge/Storybook-3D4749?style=for-the-badge&logo=storybook)
 
-## Coding tools
+## Tools
 
-![Vim](https://img.shields.io/badge/Vim-3D4749?logo=vim&style=for-the-badge&logoColor=019733)
 ![Neovim](https://img.shields.io/badge/Vim-3D4749?logo=neovim&style=for-the-badge&logoColor=57A143)
 ![Kitty](https://img.shields.io/badge/Kitty%20Terminal-3D4749?logo=gnometerminal&style=for-the-badge)
 ![macOS](https://img.shields.io/badge/mac%20OS-3D4749?logo=macos&style=for-the-badge)
 ![Arch Linux](<https://img.shields.io/badge/Arch%20Linux%20(btw)-3D4749?logo=archlinux&style=for-the-badge>)
 ![Postman](https://img.shields.io/badge/Postman-3D4749?style=for-the-badge&logo=postman)
 
-## Natural Language Processing Frameworks
-
-![SpaCy](https://img.shields.io/badge/spaCy-3D4749?logo=spacy&style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-blue?style=for-the-badge)
-
 ## Web Scraping Frameworks
 
 ![Selenium](https://img.shields.io/badge/Selenium-555?style=for-the-badge&logo=selenium)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-555?style=for-the-badge)
+![SpaCy](https://img.shields.io/badge/spaCy-3D4749?logo=spacy&style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-blue?style=for-the-badge)
