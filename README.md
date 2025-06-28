@@ -66,7 +66,7 @@ npx guiteixeira
 ![Arch Linux](<https://img.shields.io/badge/Arch%20Linux%20(btw)-3D4749?logo=archlinux&style=for-the-badge>)
 ![Postman](https://img.shields.io/badge/Postman-3D4749?style=for-the-badge&logo=postman)
 
-## Web Scraping Frameworks
+## Other technologies
 
 ![Selenium](https://img.shields.io/badge/Selenium-555?style=for-the-badge&logo=selenium)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-555?style=for-the-badge)
