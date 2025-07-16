@@ -55,7 +55,6 @@ npx guiteixeira
 ![Jinja](https://img.shields.io/badge/Jinja-3D4749?style=for-the-badge&logo=jinja)
 ![React Query](https://img.shields.io/badge/React%20Query-3D4749?style=for-the-badge&logo=reactquery)
 ![Husky](https://img.shields.io/badge/Husky-3D4749?style=for-the-badge)
-![React Query](https://img.shields.io/badge/React%20Query-3D4749?style=for-the-badge&logo=reactquery)
 ![Storybook](https://img.shields.io/badge/Storybook-3D4749?style=for-the-badge&logo=storybook)
 
 ## Tools
