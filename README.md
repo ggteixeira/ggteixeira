@@ -46,7 +46,8 @@ npx guiteixeira
 ![Astro](https://img.shields.io/badge/Astro-3D4749?logo=astro&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-3D4749?logo=django&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-555?style=for-the-badge&logo=flask)
-![.NET](https://img.shields.io/badge/.NET-3D4749?logo=dotnet&style=for-the-badge)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-3D4749?style=for-the-badge&logo=dotnet)
+
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-3D4749?logo=react&style=for-the-badge)
 ![MUI](https://img.shields.io/badge/MUI-3D4749?style=for-the-badge&logo=mui)
