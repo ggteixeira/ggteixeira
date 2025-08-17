@@ -37,7 +37,7 @@ npx guiteixeira
 ![HTML5](https://img.shields.io/badge/HTML5-3D4749?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&style=for-the-badge)
 ![CSharp](https://img.shields.io/badge/C%23-3D4749?style=for-the-badge)
-![SQL](https://img.shields.io/badge/MySQL-3D4749?logo=mysql&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-FFF?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&labelColor=003B57)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-306289?style=for-the-badge&logo=postgresql&labelColor=326791&logoColor=FFF)
 
@@ -63,9 +63,10 @@ npx guiteixeira
 ## Tools
 ![Git](https://img.shields.io/badge/GIT-F0F0E8?style=for-the-badge&logo=git&labelColor=F0F0E8)
 ![Neovim](https://img.shields.io/badge/Neovim-E7EEE8?style=for-the-badge&logo=neovim&labelColor=E7EEE8)
+![Linux](https://img.shields.io/badge/Linux-3D4749?style=for-the-badge&logo=linux&labelColor=3D4749)
 ![Kitty](https://img.shields.io/badge/Kitty%20Terminal-3D4749?logo=gnometerminal&style=for-the-badge)
-![macOS](https://img.shields.io/badge/mac%20OS-3D4749?logo=macos&style=for-the-badge)
-![Arch Linux](<https://img.shields.io/badge/Arch%20Linux%20(btw)-3D4749?logo=archlinux&style=for-the-badge>)
+![macOS](https://img.shields.io/badge/MacOS-3D4749?style=for-the-badge&logo=apple&labelColor=3D4749)
+![Arch Linux](<https://img.shields.io/badge/Arch%20-3D4749?logo=archlinux&style=for-the-badge>)
 ![Postman](https://img.shields.io/badge/Postman-3D4749?style=for-the-badge&logo=postman)
 
 ## Other technologies
