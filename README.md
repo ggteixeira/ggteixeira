@@ -35,20 +35,22 @@ npx guiteixeira
 ![Ruby](https://img.shields.io/badge/Ruby-CC342C?logo=ruby&logoSize=auto&style=for-the-badge)
 ![SWI-Prolog](https://img.shields.io/badge/Swi--Prolog-EF9439?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-3D4749?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-3D4749?style=for-the-badge&logo=css)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&style=for-the-badge)
 ![CSharp](https://img.shields.io/badge/C%23-3D4749?style=for-the-badge)
+![SQL](https://img.shields.io/badge/MySQL-3D4749?logo=mysql&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&labelColor=003B57)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-306289?style=for-the-badge&logo=postgresql&labelColor=326791&logoColor=FFF)
 
 ## Libraries and Frameworks
 
 ![NextJS](https://img.shields.io/badge/NextJS-3D4749?logo=nextdotjs&style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-555?style=for-the-badge&logo=express)
+![NodeJS](https://img.shields.io/badge/NodeJS-417E38?style=for-the-badge&logo=nodedotjs&labelColor=FFF)
 ![GatsbyJS](https://img.shields.io/badge/GatsbyJS-3D4749?logo=gatsby&style=for-the-badge)
 ![Astro](https://img.shields.io/badge/Astro-3D4749?logo=astro&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-3D4749?logo=django&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-555?style=for-the-badge&logo=flask)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-3D4749?style=for-the-badge&logo=dotnet)
-
-
 ![ReactJS](https://img.shields.io/badge/ReactJS-3D4749?logo=react&style=for-the-badge)
 ![MUI](https://img.shields.io/badge/MUI-3D4749?style=for-the-badge&logo=mui)
 ![Styled-Components](https://img.shields.io/badge/Styled--Components-3D4749?logo=styledcomponents&style=for-the-badge)
@@ -59,8 +61,8 @@ npx guiteixeira
 ![Storybook](https://img.shields.io/badge/Storybook-3D4749?style=for-the-badge&logo=storybook)
 
 ## Tools
-
-![Neovim](https://img.shields.io/badge/Vim-3D4749?logo=neovim&style=for-the-badge&logoColor=57A143)
+![Git](https://img.shields.io/badge/GIT-F0F0E8?style=for-the-badge&logo=git&labelColor=F0F0E8)
+![Neovim](https://img.shields.io/badge/Neovim-E7EEE8?style=for-the-badge&logo=neovim&labelColor=E7EEE8)
 ![Kitty](https://img.shields.io/badge/Kitty%20Terminal-3D4749?logo=gnometerminal&style=for-the-badge)
 ![macOS](https://img.shields.io/badge/mac%20OS-3D4749?logo=macos&style=for-the-badge)
 ![Arch Linux](<https://img.shields.io/badge/Arch%20Linux%20(btw)-3D4749?logo=archlinux&style=for-the-badge>)
