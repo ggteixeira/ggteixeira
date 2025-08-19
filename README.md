@@ -39,7 +39,7 @@ npx guiteixeira
 ![CSharp](https://img.shields.io/badge/C%23-3D4749?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-FFF?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&labelColor=003B57)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-306289?style=for-the-badge&logo=postgresql&labelColor=326791&logoColor=FFF)
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-306289?style=for-the-badge&logo=postgresql&labelColor=326791&logoColor=FFF) -->
 
 ## Libraries and Frameworks
 
