@@ -9,5 +9,5 @@ npx guiteixeira
   
   <a href="mailto:github@guiteixeira.dev">
     Contact
-  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  </a>
 </div>
